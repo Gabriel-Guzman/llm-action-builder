@@ -1,0 +1,7 @@
+dist
+actions
+example-responses
+.env
+log
+.idea/
+node_modules/
